@@ -28,9 +28,9 @@ Sempre em busca de aprender coisas novas e criar soluções criativas.
 ---
 
 ## 📂 Meus Projetos
-- [Projeto 1](https://github.com/Soaresniveri/projeto1) – Descrição breve do projeto
-- [Projeto 2](https://github.com/Soaresniveri/projeto2) – Descrição breve do projeto
-- [Projeto 3](https://github.com/Soaresniveri/projeto3) – Descrição breve do projeto
+- [Tamagotchi Kirby](https://github.com/Soaresniveri/Tamagotchi-Kirbo) – Descrição breve do projeto
+- [Site de sustentabilidade](https://github.com/Soaresniveri/Projeto-Site-de-Sustentabilidade) – Descrição breve do projeto
+- [Casamento Sertanejo](https://github.com/Soaresniveri/Projeto_CasamentoSertanejo_2.0) – Descrição breve do projeto
 
 ---
 
